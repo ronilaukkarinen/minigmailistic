@@ -2,6 +2,8 @@
 
 Clever, huh? As I started using Gmail web view as my main email "app" in 2023, I decided to clean it up a bit. Here's my opinionated styles.
 
+<br>
+
 ![screely-1672675217426](https://user-images.githubusercontent.com/1534150/210254918-cee14cf5-22f4-4d6e-9499-75da1b665989.png)
 
 ## Installation
