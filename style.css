@@ -118,7 +118,7 @@
 
 /* The actual "InboxZero" message styles */
 .TD > .TC {
-  padding-top: 13vh;
+  padding-top: 80px;
   padding-bottom: 40px;
   width: 100%;
   position: absolute;
@@ -203,4 +203,9 @@ div[jsname="xSLh2d"] {
 /* Hide useless stats on the bottom */
 .apO {
   display: none;
+}
+
+/* White search text */
+.gb_Xe.gb_Ze .gb_if {
+  color: var(--fe);
 }
